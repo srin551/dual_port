@@ -1,1 +1,1 @@
-# dual_port
+# dual_ram
